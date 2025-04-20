@@ -14,7 +14,7 @@ This repository contains both manual instructions and automated scripts for depl
 
 ```bash
 git clone https://github.com/EmmyAnieDev/Apache-Deployment.git
-cd Deployment
+cd Apache-Deployment
 chmod +x macos-deployment.sh linux-deployment.sh
 ```
 
